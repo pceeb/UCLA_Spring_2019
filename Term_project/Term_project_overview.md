@@ -17,7 +17,7 @@ To generate these programs and to build these GitHub repositories, students will
   * A cleaver or insightful program name.  Everyone loves a bad acronym.  
   * Name and contact info for project members.
 
-#### The Readme
+#### The Readme (125)
   * __Introduction:__ This section indicates the purpose of the program and provides background and a justification for why the program was created.
   * __Program Workflow__:  This section provides an operation overview of what the program does.  A flowchart or some other diagram might be helpful, but is not required.
   * __Dependencies__:  To run a program users may need to have dependencies installed.  Indicate which dependencies are required for you program.
@@ -25,13 +25,13 @@ To generate these programs and to build these GitHub repositories, students will
   * __Expected Output__: Describe the files and or directories will be produced by your program.
   * __References__: Cite pertinent studies or programs that you used to develop your program(s).
 
-#### The Scripts
+#### The Scripts (275)
 
   * You can use Bash, Python, and or R to write your program(s).
   * In addition to running your program, these scripts should output some sort of run log
 
 
-#### The Vignette
+#### The Vignette (100)
   * This is critical for letting other people know that they are getting the correct output from your program.
   * It includes:
     * A small test dataset
