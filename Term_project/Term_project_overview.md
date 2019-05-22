@@ -1,4 +1,4 @@
-# Term Project
+# Term Project (500 pts total)
 #### __Due Friday, June 14th at Midnight__
 
 ___
