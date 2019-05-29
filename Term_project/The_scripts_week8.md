@@ -2,7 +2,7 @@
 
 So by now you have the core function of your project figured out and you have pseudocode to tie the functions together.   
 
-Today in discussion, today you are going to work on the code that strings it all together.  
+Today in discussion, you are going to work on the code that strings it all together.  
 
 There is a folder on GitHub ```https://github.com/pceeb/UCLA_Spring_2019/tree/master/Term_project/Example_scripts``` that contains useful scripts that you can incorporate into your project.  
 
