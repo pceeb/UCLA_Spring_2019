@@ -6,7 +6,30 @@ Today in discussion, you are going to write the Vignette -the example "How to" f
 
 Next week in discussion your peers are going to test out your programs and provide feedback.  They will need to be able to run your program and be able to verify that they got the expected output.  Your Vignette should provide everything they need to do this.
 
+---
 
+# Looking Ahead
+
+* Next week in Class:
+  * Monday: Work on Projects
+  * Wednesday: Present Projects
+
+* Next week in Discussion:
+  * Peer review of projects
+
+* Projects Due:
+  * __June 14th at Midnight__
+  * No need to submit anything, we know where your repositories are....
+  * Before submission archive a version of your program in Zenodo https://zenodo.org/deposit/new
+    * Download the final version of your repository and compress it
+    * Upload it to Zenodo.  You will need to make an account first.
+    * After you submit your program you will get a digital object identifier (DOI). ["This is a unique alphanumeric string assigned by a registration agency (the International DOI Foundation) to identify content and provide a persistent link to its location on the Internet.""](https://www.apastyle.org/learn/faqs/what-is-doi)
+    * Add this DOI to your repository in a section called __Citing <your program name>__ so that people can cite your program if they use it.
+    e.g.
+    ```
+      __Citing ranacapa__
+      doi: 10.5281/zenodo.1464285
+    ```
 
 ---
 
