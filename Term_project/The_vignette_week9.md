@@ -1,6 +1,6 @@
 # Discussion Week 9: Writing the Vignette
 
-So by now you should have the majority of your program finished.
+By now, the majority of your program finished.
 
 Today in discussion, you are going to write the Vignette - the example "How to" for running your program. This should include text that explains how to run the program, example input and expected output files. See https://github.com/limey-bean/Anacapa/tree/New-Master/Example_data/ as an example.  
 
