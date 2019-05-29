@@ -20,10 +20,10 @@ Next week in discussion your peers are going to test out your programs and provi
 * Projects Due:
   * __June 14th at Midnight__
   * No need to submit anything, we know where your repositories are....
-  * Before submission archive a version of your program in Zenodo https://zenodo.org/deposit/new
+  * Before submission, archive a version of your program in Zenodo https://zenodo.org/deposit/new
     * Download the final version of your repository and compress it.
     * Upload the compressed repository to Zenodo.  You will need to make an account first. Please follow Zenodo's instructions for uploading files.
-    * After you submit your program you will get a digital object identifier (DOI). ["This is a unique alphanumeric string assigned by a registration agency (the International DOI Foundation) to identify content and provide a persistent link to its location on the Internet.""](https://www.apastyle.org/learn/faqs/what-is-doi)
+    * After you submit your program, you will get a digital object identifier (DOI). ["This is a unique alphanumeric string assigned by a registration agency (the International DOI Foundation) to identify content and provide a persistent link to its location on the Internet.""](https://www.apastyle.org/learn/faqs/what-is-doi)
     * Add this DOI to your repository in a section called __Citing <your program name>__ so that people can cite your program if they use it.
     e.g.
     `
