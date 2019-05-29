@@ -48,4 +48,4 @@ You will have the opportunity to tell us how much work you think that your teamm
 
 # Homework
 
-Submit a your Vignette.
+Submit a draft of your Vignette.

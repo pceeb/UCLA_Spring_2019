@@ -6,7 +6,7 @@
 
 ## What should it cover?
 
-Your presentation is a brief "cooking show" style introduction to your program.
+Your presentation should be a brief "cooking show" style introduction to your program.
 
 * Introduce the program via the readme: 1-2 Minutes
 * Walk the class through the Vignette: 1-2 Minutes
@@ -15,4 +15,6 @@ Your presentation is a brief "cooking show" style introduction to your program.
 
 _The time devoted to each section will depend on your program._
 
-If you worked with a group, all group members must participate in the presentation.
+If you are working in a group, all group members must participate in the presentation.
+
+Your program does not have to be perfect at the time of the presentation.  This is an opportunity to get feedback on your program and to show your peers what you have accomplished.  You will have an additional week to incorporate comments and suggestions to make you program as amazing as possible!
