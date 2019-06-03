@@ -1,4 +1,4 @@
-# Discussion Week 8: Peer review
+# Discussion Week 10: Peer review
 
 This week in discussion you will be peer reviewing each others programs.  Daniel will assign you two programs to test. You will fill out the following questionnaire for each program and submit the answers as your final homework. You will also share your questionnaire with the group that created the program __by the end of discussion__.
 ---
