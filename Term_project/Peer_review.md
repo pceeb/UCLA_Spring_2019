@@ -22,16 +22,15 @@ This week in discussion you will be peer reviewing each others programs.  Daniel
 
 #### 8. Is there a directory that contains all of the program scripts?
 
-#### 9. Do these programs generate a run log?  
 ---
 ### The Vignette
 
-#### 10. Is there a directory called Vignette and does it include a test set, the commands used to run the program and the expected output databases?
+#### 9. Is there a directory called Vignette and does it include a test set, the commands used to run the program and the expected output databases?
 
-#### 11. Where you able to run the Vignette using the small test dataset? If not what errors did you get?  If so was it easy to run the dataset?  Where the instructions clear.
+#### 10. Where you able to run the Vignette using the small test dataset? If not what errors did you get?  If so was it easy to run the dataset?  Where the instructions clear.
 
-#### 12. Where you able to reproduce the expected output?  If not what was different.
+#### 11. Where you able to reproduce the expected output?  If not what was different.
 ---
 ### General
 
-#### 13. Give __at least two__ suggestions for ways to improve the GitHub page or the operation of the program.
+#### 12. Give __at least two__ suggestions for ways to improve the GitHub page or the operation of the program.

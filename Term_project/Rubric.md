@@ -12,11 +12,10 @@
   * (10 pts)__Expected Output__: Describe the files and or directories will be produced by your program.
   * (25 pts)__References__: Cite pertinent studies or programs that you used to develop your program(s). For example, cite the source of equations, the programs run by your program, the study used to motivate your program etc.
 
+
 #### The Scripts (275 pts)
 
-  * (250 pts) You can use Bash, Python, and or R to write your program(s). These scripts should generate the expected output given below.
-  * (25 pts) In addition to running your program, these scripts should output some sort of run log
-
+  * (275 pts) You can use Bash, Python, and or R to write your program(s). These scripts should generate the expected output given below.
 
 #### The Vignette (100 pts)
   * This is critical for letting other people know that they are getting the correct output from your program.
@@ -24,3 +23,7 @@
     * (20 pts) A small test dataset
     * (50 pts) The exact command needed to run this dataset with your program
     * (30 pts) The expected output of running your program using the small dataset.
+
+#### Zenodo DOI and citation for the program (-50 points if missing)
+
+[Zenodo](https://zenodo.org/deposit/new)

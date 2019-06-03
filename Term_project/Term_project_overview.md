@@ -17,6 +17,15 @@ To generate these programs and to build these GitHub repositories, students will
   * A cleaver or insightful program name.  Everyone loves a bad acronym.  
   * Name and contact info for project members.
 
+#### digital object identifier (DOI)
+  * [Zenodo DOI](https://zenodo.org/deposit/new)
+  * Add this DOI to your Readme in a section called __Citing <your program name>__ so that people can cite your program if they use it.
+  e.g.
+  `
+    __Citing ranacapa__
+    doi: 10.5281/zenodo.1464285
+  `
+
 #### The Readme (125 pts)
   * __Introduction:__ This section indicates the purpose of the program and provides background and a justification for why the program was created.
   * __Program Workflow__:  This section provides an operation overview of what the program does.  A flowchart or some other diagram might be helpful, but is not required.
@@ -25,10 +34,10 @@ To generate these programs and to build these GitHub repositories, students will
   * __Expected Output__: Describe the files and or directories will be produced by your program.
   * __References__: Cite pertinent studies or programs that you used to develop your program(s).
 
+
 #### The Scripts (275 pts)
 
   * You can use Bash, Python, and or R to write your program(s).
-  * In addition to running your program, these scripts should output some sort of run log
 
 
 #### The Vignette (100 pts)
